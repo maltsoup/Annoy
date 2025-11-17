@@ -1,2 +1,2 @@
-// dummy – real code is in the bundle below
+// stub so Revenge can “build”
 export {};
