@@ -1,0 +1,8 @@
+{
+  "name": "Annoy",
+  "description": "Echo a user's messages for a short while",
+  "authors": [{ "name": "You", "id": "YOUR_DISCORD_ID" }],
+  "version": "1.0.0",
+  "main": "index.ts",
+  "revenge": ">=1.0.0"
+}
